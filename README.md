@@ -9,8 +9,7 @@ My main tech stack is HTML, CSS, JavaScript, Laravel and anything that peaks my 
 - 🔭 I’m currently worying about the future
 - 🌱 I’m currently learning how to live as an adult
 - 🤔 I’m looking for help with everything
-  
-  Fun Facts :
+- Fun Facts :
     - i am a retired caffeine addict
     - i have a terrible sleep schedule
     - i am mentally unwell, and physicially declining
