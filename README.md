@@ -14,7 +14,7 @@ My main tech stack is HTML, CSS, JavaScript, Laravel and anything that peaks my 
     - i am a retired caffeine addict
     - i have a terrible sleep schedule
     - i am mentally unwell, and physicially declining
-    - Hobbies: Manga, Music, Sleep, Movies, Anime
+    - <b>Hobbies<b>: Manga, Music, Sleep, Movies, Anime
 <!--
 **AtharbaSharma/AtharbaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
