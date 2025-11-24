@@ -6,7 +6,6 @@ I build things i find cool or fun and build hope for myself and disappoint my fa
 
 My main tech stack is HTML, CSS, JavaScript, Laravel and anything that peaks my interest.
 
-  
 - 🔭 I’m currently worying about the future
 - 🌱 I’m currently learning how to live as an adult
 - 🤔 I’m looking for help with everything
